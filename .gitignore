@@ -1,2 +1,6 @@
 # ignore jupyter checkpoints
 .ipynb_checkpoints/
+/lab1.class
+/lab2.class
+/lab2$runnableMandelBrodtPixel.class
+/lab2$callableMandelBrodtPixel.class
