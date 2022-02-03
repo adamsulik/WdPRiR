@@ -1,4 +1,4 @@
-package Zad5;
+package lab5;
 
 public class Chat2 {
     static public void main(String[] args) throws Exception {

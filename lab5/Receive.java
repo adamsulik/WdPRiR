@@ -1,4 +1,4 @@
-package Zad5;
+package lab5;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
